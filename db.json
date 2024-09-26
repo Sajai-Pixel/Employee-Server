@@ -1,0 +1,16 @@
+{
+  "employees": [
+    {
+      "id": "1d75",
+      "username": "Aswin",
+      "email": "unni05@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "412f",
+      "username": "Sajai",
+      "email": "sajai.jun29@gmail.com",
+      "status": "active"
+    }
+  ]
+}
